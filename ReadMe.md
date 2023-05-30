@@ -1,0 +1,2 @@
+# Building a snake game following a tutorial on youtube.
+- Goal of the project is to become more familiar with how the languages of HTML, CSS and JS work together to build webpages and specifically games.
